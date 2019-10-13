@@ -1,0 +1,1 @@
+Reward function for [amazon deep racer](https://aws.amazon.com/deepracer/) challenge.
